@@ -15,9 +15,9 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
   - tableau
  
   ## Steps of the project
-  1- Data Cleaning\Modelling - First the data was loaded in Excel for cleaning. Rows with missing values were removed, The data type of some values was changed and irrelevent columns were removed. Then the three 
+  - Data Cleaning\Modelling - First the data was loaded in Excel for cleaning. Rows with missing values were removed, The data type of some values was changed and irrelevent columns were removed. Then the three 
      different datasets were merged using the VLookup function 
-  3- Discoveries - Top 5 catagories with most popularity were found using the sumif formula .
-  4- Visualizations - Visualizations were made in tableau to make the insights easy to understand.
-  5- Presentation - Lastly a power point presentation was made.
+  - Discoveries - Top 5 catagories with most popularity were found using the sumif formula .
+  - Visualizations - Visualizations were made in tableau to make the insights easy to understand.
+  - Presentation - Lastly a power point presentation was made.
   
