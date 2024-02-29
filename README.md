@@ -27,7 +27,7 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
     ![](accenture(1).png)
   ### Presentation -
    Lastly a power point presentation was made.
-  <object data="social_buzz.pdf" width="1000" height="600" type='application/pdf'></object>
+  <object data="social_buzz.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 
