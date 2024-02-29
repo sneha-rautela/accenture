@@ -17,7 +17,8 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
   ## Steps of the project
   ### Data Cleaning\Modelling -
    First the data was loaded in Excel for cleaning. Rows with missing values were removed, The data type of some values was changed and irrelevent columns were removed. Then the three 
-   different datasets were merged using the VLookup function 
+   different datasets were merged using the VLookup function.
+  ![](accenture(3).png)
   ### Discoveries -
    Top 5 catagories with most popularity were found using the sumif formula .
     ![](accenture.png)
@@ -26,6 +27,7 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
     ![](accenture(1).png)
   ### Presentation -
    Lastly a power point presentation was made.
+  <object data="social_buzz.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 
